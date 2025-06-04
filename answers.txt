@@ -1,0 +1,4 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Machine learning and artificial intelligence. Being able to learn from
+massive quantities of data is a huge feature of AI models.
