@@ -1,5 +1,12 @@
+
 Q1: Why might we consider using Git?
 
 Answer: Version control is incredibly important, especially if your drive fails.
 This has happened to me personally and it was a nightmare that could have been
 avoided with committing often.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Machine learning and artificial intelligence. Being able to learn from
+massive quantities of data is a huge feature of AI models.
+
